@@ -2,3 +2,8 @@ pandas
 numpy
 statsmodels
 scikit-learn
+statsmodels
+scikit-learn
+seaborn
+plotly
+matplotlib
